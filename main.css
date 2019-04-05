@@ -5,3 +5,8 @@ body {
 .w-30 {
   width: 30%;
 }
+
+.card-image {
+  width: 250px;
+  height: 200px;
+}
