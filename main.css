@@ -1,3 +1,7 @@
 body {
   background-color: aliceblue;
 }
+
+.w-30 {
+  width: 30%;
+}
