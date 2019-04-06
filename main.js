@@ -1,5 +1,24 @@
 let places = [];
 
+const sort = (event) => {
+  let sortArray = [];
+  const filter = event.target.id
+  places.forEach((place) => {
+    if(place.region === filter) {
+      sortArray.push(place);
+    }
+  })
+  if(filter !== 'all') {
+    domStringBuilder(sortArray);
+  } else {
+    domStringBuilder(places)
+  }
+}
+
+const addSortEventListeners = () => {
+  document.getElementById('sort-buttons').addEventListener('click', sort);
+}
+
 const printToDom = (divId, textToPrint) => {
   const selectedDiv = document.getElementById(divId, textToPrint);
   selectedDiv.innerHTML = textToPrint;
@@ -40,6 +59,7 @@ const getPlacesData = () => {
 
 const init = () => {
   getPlacesData();
+  addSortEventListeners();
 }
 
 init();
