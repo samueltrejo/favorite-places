@@ -8,7 +8,8 @@
       "resturant": "Tacos y Salsas",
       "language": "English",
       "mall": "Walmart",
-      "attraction": "Travisprice Park"
+      "attraction": "Travisprice Park",
+      "region": "america"
     },
     {
       "id": "place2",
@@ -18,7 +19,8 @@
       "resturant": "Quintessence",
       "language": "Japanese",
       "mall": "Ginza",
-      "attraction": "The Imperial Palace"
+      "attraction": "The Imperial Palace",
+      "region": "asia"
     },
     {
       "id": "place3",
@@ -28,7 +30,8 @@
       "resturant": "Tacos y Salsas",
       "language": "English",
       "mall": "Walmart",
-      "attraction": "Travisprice Park"
+      "attraction": "Travisprice Park",
+      "region": "europe"
     },
     {
       "id": "place4",
@@ -36,9 +39,10 @@
       "country": "France",
       "image": "https://photos.mandarinoriental.com/is/image/MandarinOriental/paris-2017-home?wid=2880&hei=1280&fmt=jpeg&crop=9,336,2699,1200&anchor=1358,936&qlt=75,0&fit=wrap&op_sharpen=0&resMode=sharp2&op_usm=0,0,0,0&iccEmbed=0&printRes=72",
       "resturant": "Tacos y Salsas",
-      "language": "English",
+      "language": "French",
       "mall": "Walmart",
-      "attraction": "Travisprice Park"
+      "attraction": "Travisprice Park",
+      "region": "europe"
     },
     {
       "id": "place5",
@@ -48,7 +52,8 @@
       "resturant": "Tacos y Salsas",
       "language": "English",
       "mall": "Walmart",
-      "attraction": "Travisprice Park"
+      "attraction": "Travisprice Park",
+      "region": "europe"
     },
     {
       "id": "place6",
@@ -56,9 +61,10 @@
       "country": "Spain",
       "image": "https://cdn.vehicle-rent.com/media/images/Barcelona_ShVYbG5.max-2000x1000.jpg",
       "resturant": "Tacos y Salsas",
-      "language": "English",
+      "language": "Spanish",
       "mall": "Walmart",
-      "attraction": "Travisprice Park"
+      "attraction": "Travisprice Park",
+      "region": "europe"
     },
     {
       "id": "place7",
@@ -66,9 +72,10 @@
       "country": "Argentina",
       "image": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/2-perito-moreno-glacier-in-patagonia-argentina-karol-kozlowski.jpg",
       "resturant": "Tacos y Salsas",
-      "language": "English",
+      "language": "Spanish",
       "mall": "Walmart",
-      "attraction": "Travisprice Park"
+      "attraction": "Travisprice Park",
+      "region": "america"
     },
     {
       "id": "place8",
@@ -78,7 +85,8 @@
       "resturant": "Tacos y Salsas",
       "language": "English",
       "mall": "Walmart",
-      "attraction": "Travisprice Park"
+      "attraction": "Travisprice Park",
+      "region": "oceana"
     },
     {
       "id": "place9",
@@ -88,7 +96,8 @@
       "resturant": "Tacos y Salsas",
       "language": "English",
       "mall": "Walmart",
-      "attraction": "Travisprice Park"
+      "attraction": "Travisprice Park",
+      "region": "oceana"
     },
     {
       "id": "place10",
@@ -98,7 +107,8 @@
       "resturant": "Tacos y Salsas",
       "language": "English",
       "mall": "Walmart",
-      "attraction": "Travisprice Park"
+      "attraction": "Travisprice Park",
+      "region": "america"
     }
   ]
 }
