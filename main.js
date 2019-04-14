@@ -28,7 +28,7 @@ const domStringBuilder = (array) => {
   let domString = '';
   array.forEach((item) => {
     domString += `<div class="place-card w-30 m-1 rounded bg-white text-center">`;
-    domString += `<h3 class="bg-info text-light rounded-top">${item.city}</h3>`;
+    domString += `<h3 class="bg-dark text-light rounded-top fascinate-font">${item.city}</h3>`;
     domString += `<img src=${item.image} class="img-fluid card-image" alt="Responsive image">`
     domString += `<p>${item.country}</p>`
     domString += `<p>${item.resturant}</p>`

@@ -1,5 +1,13 @@
 body {
-  background-color: aliceblue;
+  background-image: url(https://image.freepik.com/free-vector/monochrome-low-poly-background_1048-8601.jpg);
+}
+
+.place-card {
+  box-shadow: 10px 10px 15px rgba(44, 20, 59, 0.5);
+}
+
+.jumbotron {
+  background-color: rgba(44, 20, 59, 0.5);
 }
 
 .w-30 {
@@ -9,4 +17,22 @@ body {
 .card-image {
   width: 250px;
   height: 200px;
+}
+
+.fascinate-font {
+  font-family: 'Fascinate Inline', cursive;
+}
+
+.cute-font {
+  font-family: 'Cute Font', cursive;
+  font-size: 35px;
+}
+
+.border-top-double {
+  border-top: 7px double white;
+  width: 100%;
+}
+
+.font-size-35 {
+  font-size: 25px;
 }
